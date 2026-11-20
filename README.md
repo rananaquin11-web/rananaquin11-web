@@ -1,16 +1,22 @@
-## Hi there 👋
+Rana Naquin
 
-<!--
-**rananaquin11-web/rananaquin11-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Insurance domain expert working in AI evaluation. I bring 14+ years of property and casualty claims and litigation experience to the work of testing whether AI systems handle claims the way a claims professional would.
 
-Here are some ideas to get you started:
+What I do now
+- Insurance Domain Expert (Contract), Fleet AI: I design evaluation scenarios and test environments for commercial claims, compare competing model outputs against source documents and expected handling, and document which model performed better and why, including missing facts, conflicting evidence, and recommendations that sound convincing but do not hold up
+- AI Model Evaluator (Contract), Stryder Corp for Handshake AI, Feb to May 2026: structured scoring of AI responses, including multimodal project work
+What this GitHub shows
+- ai-workflow-systems: AI operations and evaluation frameworks for insurance, including synthetic enterprise environments and human in the loop evaluation design
+- claims-litigation-triage-suite: a small, illustrative project translating P&C litigation intake requirements into a structured data schema, validation checks, and workflow routing
+- Adversarial-Prompt-Design: structured prompts built to test AI reasoning, instruction following, and response quality under conflicting constraints and edge cases
+Background
+- 14+ years across carriers and TPAs: litigated claims, coverage determinations, litigation strategy with defense counsel
+- Litigation triage lead for a major Florida property carrier, eight to nine months
+- Corporate representative in 120+ depositions and 30+ mediations
+- Platforms: Guidewire, Duck Creek, Xactimate, Verint, Salesforce
+- Florida 6-20 All Lines Adjuster license
+Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI evaluation, AI enablement, and agentic operations roles where claims judgment is the product.
+
+LinkedIn: linkedin.com/in/rananaquin
